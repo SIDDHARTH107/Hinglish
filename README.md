@@ -2,4 +2,4 @@
 ## Challenegs faced
 - Encountered RateLimitError while integrating the ChatGPT API into my code.
 - Explored Python Graphical User Interface approach
-- 
+- Encountered TclError while importing Tkinter library
